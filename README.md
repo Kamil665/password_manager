@@ -54,7 +54,7 @@ go run project.go
 
 ```
 
-As demonstrated in the workspace snapshot **"Снимок экрана (1066).png"**, running the file automatically triggers password creation, encryption, secure local persistence, and test output verifying successful decryption.
+Running the file automatically triggers password creation, encryption, secure local persistence, and test output verifying successful decryption.
 
 ---
 
