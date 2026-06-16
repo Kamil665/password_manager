@@ -1,0 +1,13 @@
+# Пароли
+passwords.dat
+
+# Временные файлы
+*.exe
+*.log
+
+# Go
+*.test
+*.out
+
+# VS Code
+.vscode/
